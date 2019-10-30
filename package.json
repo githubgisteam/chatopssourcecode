@@ -27,7 +27,7 @@
     "dialogflow": "^0.8.2",
     "dialogflow-fulfillment": "^0.6.1",
     "express": "^4.16.4",
-    "mongoose": "^5.5.5",
+    "mongoose": "^5.7.5",
     "ms-rest-azure": "^1.14.3",
     "servicenow-rest-api": "^1.0.4",
     "slack-notify": "^0.1.7"
